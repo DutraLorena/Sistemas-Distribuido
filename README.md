@@ -2,17 +2,17 @@
 Atividade 03 da disciplina de Sistemas Distribuídos - 8 período da UNIVERSIDADE FEDERAL DO MARANHÃO 
 # Implementação de um serviço de aluguel de imóveis/quartos no formato AirBnb (MQTT)
 
-Instalação do MQTT
+# Instalação do MQTT
 
 npm install mqtt --save
 
 npm install mqtt -g
 
-Instalaçao mosquitto disponpivel em:
+# Instalaçao mosquitto disponpivel em:
 
 https://mosquitto.org/download/
 
-Instalação biblioteca de leitura de teclado:
+# Instalação biblioteca de leitura de teclado:
 
 npm install readline-sync
 
