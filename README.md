@@ -1,6 +1,6 @@
 # Sistemas-Distribuido
 Atividade 03 da disciplina de Sistemas Distribuídos - 8 período da UNIVERSIDADE FEDERAL DO MARANHÃO 
-# Implementação de um serviço de aluguel de imóveis/quartos no formato AirBnb (gRPC)
+# Implementação de um serviço de aluguel de imóveis/quartos no formato AirBnb (MQTT)
 
 Instalação do MQTT
 
